@@ -1,6 +1,6 @@
 {
-  "name": "chatgpt",
-  "version": "0.0.0",
+  "name": "horton-desktop",
+  "version": "0.1.0",
   "scripts": {
     "dev:fe": "vite",
     "build:fe": "tsc && vite build",
